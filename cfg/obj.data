@@ -1,0 +1,5 @@
+classes = 13
+train = Robosub2021_sim/train.txt
+valid = Robosub2021_sim/val.txt
+names = Robosub2021_sim/obj.names
+backup = Robosub2021_sim/weights
